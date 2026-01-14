@@ -1,0 +1,10 @@
+black[jupyter]==25.1.0
+mypy==1.15.0
+fastapi==0.115.12
+peft==0.15.2
+uvicorn==0.34.2
+requests==2.32.3
+types-requests
+streamlit==1.45.1
+openai==1.86.0
+google-genai==1.20.0

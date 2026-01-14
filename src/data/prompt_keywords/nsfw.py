@@ -1,0 +1,17 @@
+nsfw_keywords = [
+    "violent",
+    "sex",
+    "porn",
+    "explicit",
+    "nude",
+    "kill" "mat" "matar",
+    "asesin",
+    "sangre",
+    "blood",
+    "drugs",
+    "droga",
+    "ofensive",
+    "ofensivo",
+    "ofensivo",
+    "inapropiado",
+]
